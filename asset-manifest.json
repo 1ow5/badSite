@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/1ow5/badSite.git/static/css/main.7881b836.css",
+    "main.js": "/1ow5/badSite.git/static/js/main.bd9ed725.js",
+    "static/media/HorseWooman.svg": "/1ow5/badSite.git/static/media/HorseWooman.8e3a1f85341daac750b8.svg",
+    "static/media/Boots.svg": "/1ow5/badSite.git/static/media/Boots.40bcd735c9f15f3d9d57.svg",
+    "static/media/Pelmeni.svg": "/1ow5/badSite.git/static/media/Pelmeni.a417199431e2ba8c5f6b.svg",
+    "static/media/Biker.svg": "/1ow5/badSite.git/static/media/Biker.092460fdf1baa006a426.svg",
+    "static/media/WomanOnHorse.svg": "/1ow5/badSite.git/static/media/WomanOnHorse.b7afe957b4c67a47119a.svg",
+    "static/media/Husky.svg": "/1ow5/badSite.git/static/media/Husky.38083868b7ea028f1a6a.svg",
+    "index.html": "/1ow5/badSite.git/index.html",
+    "main.7881b836.css.map": "/1ow5/badSite.git/static/css/main.7881b836.css.map",
+    "main.bd9ed725.js.map": "/1ow5/badSite.git/static/js/main.bd9ed725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7881b836.css",
+    "static/js/main.bd9ed725.js"
+  ]
+}
